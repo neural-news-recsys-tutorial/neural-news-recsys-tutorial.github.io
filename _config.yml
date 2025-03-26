@@ -11,7 +11,3 @@ conference_intro: ""
 
 github:
   zip_url: http://www.google.com
-
-collections:
-  organizers:
-    output: true
