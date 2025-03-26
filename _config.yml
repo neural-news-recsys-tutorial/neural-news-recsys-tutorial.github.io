@@ -2,3 +2,10 @@ title: Neural News Recommendation: Foundations, Challenges, and Future Direction
 description: Tutorial on neural news recommendation.
 show_downloads: false
 theme: jekyll-theme-cayman
+
+github:
+  zip_url: http://www.google.com
+
+collections:
+  organizers:
+    output: true
